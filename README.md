@@ -4,6 +4,7 @@ Um sistema simples em C, onde o usuário começará o programa digitando o tipo 
 
 
 ## Funcionalidades
+## Algumas são exclusivas para funcionario, outros usuarios não tem acesso.
 1. Cadastrar livro
 2. Listar livros
 3. Pesquisar livro por ID
