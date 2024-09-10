@@ -1,7 +1,5 @@
 # Sistema de Biblioteca
-um sistema simples em c, onde o usuario irá comecar o programa digitado, qual tipo de sócio aceitos pela
- biblioteca faz parte,  professores, alunos, funcionários ou pessoas da
- comunidade externa.
+Um sistema simples em C, onde o usuário começará o programa digitando o tipo de sócio aceito pela biblioteca: professores, alunos, funcionários ou pessoas da comunidade externa.
 
 
 
